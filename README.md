@@ -3,7 +3,7 @@
 ### 👋 Hello, I am Camila✨
 
 - 🌱 I’m currently learning JavaScript 
-- 🔭 I’m currently working on https://camilaebf.vercel.app/
+- 🔭 I’m currently working on https://camilaebf.xyz/
 - 👯 I’m looking to collaborate on Front-end projects
 - 😄 Pronouns: she/her
 
