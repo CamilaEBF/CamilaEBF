@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 
 ### ☕ Get In Touch
-[![CollectedNotes](https://img.shields.io/badge/CollectedNotes-CollectedNotes-lightgrey)](https://camilaebf.xyz)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Cami__BF)
+[![CollectedNotes](https://img.shields.io/badge/CollectedNotes-CollectedNotes-lightgrey)](https://collectednotes.com/camilaebf)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/camilaebf)
 
 
